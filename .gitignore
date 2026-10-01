@@ -1,0 +1,12 @@
+node_modules/
+client/node_modules/
+
+dist/
+client/build/
+
+.env
+.env.*
+*.local
+
+.vite/
+.DS_Store

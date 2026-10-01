@@ -1,0 +1,14 @@
+{
+  "name": "enterprise-dashboard-template",
+  "version": "1.0.0",
+  "description": "Enterprise Admin Dashboard UI Template",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "cd client && npm start",
+    "build": "npm install --prefix client && npm run build --prefix client",
+    "install:all": "cd client && npm install"
+  }
+}
