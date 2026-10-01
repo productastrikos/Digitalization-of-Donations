@@ -9,3 +9,11 @@ dist/
 .vite/
 .DS_Store
 .claude/
+
+/index.html
+/static/
+/asset-manifest.json
+/.htaccess
+/Logo Transparent Horizontal.png
+/download.jpg
+/swmlogo.png
